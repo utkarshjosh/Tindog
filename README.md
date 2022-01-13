@@ -2,8 +2,8 @@
 
 # Tindog  
  
- Meet new and interesting dogs nearby. Because your dogs need company too. Tindog is one of the most favourite app of the dogs, and has successfully earned 5  ![enter image description here](https://github.com/utkarshjosh/Tindog/blob/main/images/paws16px.png?raw=true)  paws rating overall.
- 👉[Live Site Here!](https://utkarshjosh.github.io/Tindog/) 👈
+ Meet new and interesting dogs nearby. Because your dogs need company too. Tindog is one of the most favourite app of the dogs, and has successfully earned 5  ![enter image description here](https://github.com/utkarshjosh/Tindog/blob/main/images/paws16px.png?raw=true)  paws rating overall. <br>
+ 👉[Live Site Here!](https://utkarshjosh.github.io/Tindog/) 👈 <br>
 Let's your dog find a amazing and interesting partners. Maybe some amazing doggy is just waiting for next block!
 
 
@@ -19,7 +19,7 @@ We have got plans for every dog's needs.
 
 # The Making
 
-The original Idea belongs to Angela Yu, and so does all the credits for it and orignally it was made using Bootstrap 4.0. This mock implementation of **Tindog** is done by UtkarshJoshi using Bootstrap 5.1.3, there are slight differences while making it compared to 4.0 and that gives a good challenge for your CSS skills.
+The original Idea belongs to [Angela Yu](https://twitter.com/yu_angela), and so does all the credits for it and orignally it was made using Bootstrap 4.0. This mock implementation of **Tindog** is done by UtkarshJoshi using Bootstrap 5.1.3, there are slight differences while making it compared to 4.0 and that gives a good challenge for your CSS skills.
 The site uses major bootstrap components, it is mobile friendly and responsive to viewport size.
 Major components are bootstrap form grid, carousels, cards.
 
