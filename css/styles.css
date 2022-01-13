@@ -1,0 +1,217 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+    line-height: 1.5 !important;
+
+}
+
+/* .big-text {
+    font-size: 1.7rem;
+    line-height: 1.5;
+    margin-top: 4%;
+} */
+.colored-section {
+    background-color: #ff5864;
+    color: #FFFF;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+.bigger-text {
+    font-size: 3rem;
+}
+
+
+
+#welcome-text {
+    font-size: 3.5rem;
+    text-align: left;
+}
+
+#title .title-text {
+    text-align: left;
+}
+
+
+div.container-fluid {
+    padding: 3% 15%;
+}
+
+/* #title {
+    background-color: #ff5864;
+    color: #FFFF;
+} */
+
+
+.title-text {
+    padding-bottom: 20%;
+}
+
+/* Nabar brand */
+nav.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+
+}
+
+#navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* Download Button */
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+    transform: rotate(25deg);
+    position: absolute;
+    right: 22%;
+}
+
+/* Icons and short description */
+#features {
+    visibility: none;
+    /* background-color: #fff; */
+    padding-top: 5%;
+    padding-bottom: 5%;
+    /*for phone twist*/
+    position: relative;
+    /* z-index: 1; */
+}
+
+
+
+#features p {
+    color: #706e6e;
+    padding: 1% 8%;
+}
+
+#features i {
+    color: #ef8172;
+}
+
+#features i:hover {
+    color: #ff5864;
+}
+
+/* Testimonial Section */
+#testimonials {
+    background-color: #ef8172;
+    /*Overrides color-section colors*/
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Press */
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+#press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/* 
+div.carousel-item {
+    padding: 3% 15%;
+} */
+
+/* Pricing Section */
+#pricing {
+    padding: 100px;
+
+}
+
+#pricing .card-header {
+    padding: .75rem 1.25rem;
+}
+
+/*  */
+/* div.pricing-column { */
+/* padding: 3% 2%; */
+/* } */
+
+/* #pricing .row {
+
+    padding-left: 10%;
+    padding-right: 10%;
+} */
+
+
+
+@media (max-width: 1028px) {
+    #welcome-text {
+        text-align: center;
+    }
+
+    #title .title-text {
+        text-align: center;
+        /*for buttons*/
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0deg);
+    }
+
+    .title-text {
+        padding-bottom: 0;
+    }
+}
+
+/* Ending and Footer */
+
+.large-text {
+    font-size: 4rem;
+}
+
+#footer {
+    padding: 5%;
+    font-size: 1.5rem;
+}
+
+.footer-icons i {
+    margin: 20px 10px;
+}
+
+#footer a {
+    text-decoration: none;
+    /* font-weight: bold; */
+    color: #ff5864;
+
+}
+
+#footer a:hover {
+    color: #ef8172;
+}
